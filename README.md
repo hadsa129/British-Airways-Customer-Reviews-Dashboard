@@ -12,7 +12,7 @@ By exploring key performance indicators such as **overall ratings**, **cabin sta
 | File | Description |
 |------|--------------|
 | [`british_airways_dashboard.twbx`](./british_airways_dashboard.twbx) | Tableau Dashboard File |
-| [`british_airways_reviews.xlsx`](./british_airways_reviews.xlsx) | Raw dataset containing customer review data |
+| [`british_airways_reviews.csv`](./british_airways_reviews.csv) | Raw dataset containing customer review data |
 
 *(Make sure both files are in the repository root folder or update the links if placed elsewhere.)*
 
